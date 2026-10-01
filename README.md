@@ -8,15 +8,15 @@
 ---
 
 ## 关于我
-我是一名在中国的学生，同时也是开发者，通过真实项目学习和提升工程技能。当前我的工作与学习集中在我仓库中使用的技术上：构建博客、工具类应用与桌面/GUI 工具。
+我是一名中国学生，同时也是开发者，通过真实项目学习和提升工程技能。当前我的工作与学习集中在我仓库中使用的技术上：构建博客、工具类应用与桌面/GUI 工具。
 
-- 🌍 地点：中国
+- 🌍 地点：中国 (China)
 - 🌐 个人网站：[zhischooler.pages.dev](https://zhischooler.pages.dev)
 - ✉️ 邮箱：zhixiaoers@outlook.com
-
+- 🌐 个人博客：zhischooler.github.io
 ---
 
-## 当前项目
+## 当前开发项目
 - Zemlo — `一个博客模板 / 博客项目，正在开发中，用于构建静态博客与写作流程优化。`
 
 ---
@@ -29,10 +29,10 @@
 ---
 
 ## 精选仓库
-- [zemlo](https://github.com/Zhischooler/zemlo) — 博客模板 / 博客项目（Astro）
+- [zemlo](https://github.com/Zhischooler/zemlo) — 博客模板 / 博客项目
 - [zhischooler.github.io](https://github.com/Zhischooler/zhischooler.github.io) — 个人站点 / Pages
-- [FFmpeg-GUI](https://github.com/Zhischooler/FFmpeg-GUI) — FFmpeg 的图形界面工具（Python）
-- [BiliBili-Wallpaper-Switcher](https://github.com/Zhischooler/BiliBili-Wallpaper-Switcher) — 哔哩哔哩壁纸切换器（JavaScript）
+- [FFmpeg-GUI](https://github.com/Zhischooler/FFmpeg-GUI) — FFmpeg 的图形界面工具
+- [BiliBili-Wallpaper-Switcher](https://github.com/Zhischooler/BiliBili-Wallpaper-Switcher) — 哔哩哔哩壁纸切换器
 
 ---
 
@@ -42,4 +42,4 @@
 
 ---
 
-感谢访问我的主页！如果你对我的项目感兴趣，欢迎打开 issue、提 PR 或通过邮箱联系我。
+感谢您的访问！如果你对我的项目感兴趣，欢迎打开 issue、提 PR 或通过邮箱联系我。
