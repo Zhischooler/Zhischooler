@@ -11,7 +11,7 @@
 我是一名中国学生，同时也是开发者，通过真实项目学习和提升工程技能。当前我的工作与学习集中在我仓库中使用的技术上：构建博客、工具类应用与桌面/GUI 工具。
 
 - 🌍 地点：中国 (China)
-- 🌐 个人网站：[zhischooler.pages.dev](https://zhischooler.pages.dev)
+- 🌐 个人网站：[zhischooler.cc.cd](https://zhischooler.cc.cd)
 - ✉️ 邮箱：zhixiaoers@outlook.com
 - 🌐 个人博客：[zhischooler.github.io](zhischooler.github.io)
 ---
