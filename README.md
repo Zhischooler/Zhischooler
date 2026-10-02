@@ -13,7 +13,7 @@
 - 🌍 地点：中国 (China)
 - 🌐 个人网站：[zhischooler.pages.dev](https://zhischooler.pages.dev)
 - ✉️ 邮箱：zhixiaoers@outlook.com
-- 🌐 个人博客：zhischooler.github.io
+- 🌐 个人博客：[zhischooler.github.io](zhischooler.github.io)
 ---
 
 ## 当前开发项目
@@ -22,7 +22,7 @@
 ---
 
 ## 我使用的技术栈
-- Astro
+- Astro (不常用)
 - JavaScript
 - Python
 
