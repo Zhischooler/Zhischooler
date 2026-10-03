@@ -15,7 +15,7 @@
 - ✉️ 邮箱：zhixiaoers@outlook.com
 - 🌐 个人博客：[zhischooler.github.io](zhischooler.github.io)
 
-**还有一个不稳定的：zhischooler.cc.cd**
+**还有一个不稳定网站的：zhixiaoer.dpdns.org**
 
 ---
 
