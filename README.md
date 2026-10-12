@@ -10,7 +10,7 @@
 - 🌍 地点：中国 (China)
 - 🌐 个人网站：[zhixiaoer.dpdns.org](https://zhixiaoer.dpdns.org)
 - ✉️ 邮箱：zhixiaoers@outlook.com
-- 🌐 个人博客：[zhischooler.github.io](zhischooler.github.io)
+- 🌐 个人博客：[zhischooler.github.io](https://zhischooler.github.io)
 
 
 ---
