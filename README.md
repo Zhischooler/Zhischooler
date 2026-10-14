@@ -4,6 +4,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=Zhischooler&color=blue)](https://github.com/Zhischooler)
 
 ---
+
+> [Chinese README](./README.zh.md)
 ## About Me
 
 - 🌍 Location: China
