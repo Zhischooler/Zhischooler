@@ -4,7 +4,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/Zhischooler?label=Follow&style=social)](https://github.com/Zhischooler)
 [![Profile views](https://komarev.com/ghpvc/?username=Zhischooler&color=blue)](https://github.com/Zhischooler)
 
+> [English README](./README.md)
 ---
+
 ## 关于我
 
 - 🌍 地点：中国 (China)
