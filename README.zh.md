@@ -15,10 +15,6 @@
 - 🌐 个人博客：[zhischooler.github.io](https://zhischooler.github.io)
 
 
----
-
-## 当前开发项目
-- Zemlo — `一个博客模板 / 博客项目，正在开发中，用于构建静态博客与写作流程优化。`
 
 ---
 
