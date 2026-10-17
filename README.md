@@ -15,11 +15,6 @@
 
 ---
 
-## Current Development Projects
-- Zemlo — `A blog template / blog project, currently under development, used for building static blogs and optimizing the writing workflow.`
-
----
-
 ## My Tech Stack
 - Astro (not commonly used)
 - JavaScript
