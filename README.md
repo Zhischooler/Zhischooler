@@ -9,9 +9,9 @@
 ## About Me
 
 - 🌍 Location: China
-- 🌐 Personal Website: [zhixiaoer.dpdns.org](https://zhixiaoer.dpdns.org)
+- 🌐 Personal Website: [zhischooler.github.io](https://zhischooler.github.io/)
 - ✉️ Email: zhixiaoers@outlook.com
-- 🌐 Personal Blog: [zhischooler.github.io](https://zhischooler.github.io)
+- 🌐 Personal Blog: [zhischooler.github.io/blog](https://zhischooler.github.io/blog)
 
 ---
 
