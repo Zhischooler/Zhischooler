@@ -10,9 +10,9 @@
 ## 关于我
 
 - 🌍 地点：中国 (China)
-- 🌐 个人网站：[zhixiaoer.dpdns.org](https://zhixiaoer.dpdns.org)
+- 🌐 个人网站：[https://zhischooler.github.io/](https://zhischooler.github.io/)
 - ✉️ 邮箱：zhixiaoers@outlook.com
-- 🌐 个人博客：[zhischooler.github.io](https://zhischooler.github.io)
+- 🌐 个人博客：[zhischooler.github.io/blog](https://zhischooler.github.io/blog)
 
 
 
