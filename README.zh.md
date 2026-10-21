@@ -1,4 +1,6 @@
-# Hi，我是 Zhischooler 👋
+ <h1 align="center">
+Hi，我是 Zhischooler 👋
+</h1>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Zhischooler?label=Follow&style=social)](https://github.com/Zhischooler)
