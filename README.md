@@ -1,5 +1,5 @@
 <h1 align="center">
-# Hi, I'm Zhischooler 👋
+Hi, I'm Zhischooler 👋
 </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/Zhischooler?label=Follow&style=social)](https://github.com/Zhischooler)
